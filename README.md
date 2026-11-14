@@ -5,6 +5,10 @@
 
 Корпус и тела — на MakerWorld (MONSTRIX). Монстрик 1.5 — прошлогодний робот на ESP32-C3 с OLED, без голоса: [techminimal.ru/firmware/monstrix-robot](https://techminimal.ru/firmware/monstrix-robot/).
 
+## Что купить
+
+Один недорогой набор: **xiaozhi AI voice ESP32-S3 с дисплеем 1.54"** (Xingzhi Cube) — в комплекте плата с дисплеем, динамик и аккумулятор. Прошивка работает и в родном корпусе набора, и в голове MONSTRIX с MakerWorld.
+
 ## Прошить
 
 Страница с кнопкой: **https://techminimal.ru/firmware/monstrik-2/**
